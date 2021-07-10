@@ -28,7 +28,7 @@ Van der Waals volume: 28.948000 A^3
 Probe inaccessible volume: 1.468000 A^3
 Small probe core volume: 1.326000 A^3
 Small probe shell volume: 9.270000 A^3
-Large probe core volume: 681.714000 A^3
+Large probe core volume: No physical meaning, contains all volume outside the structure.
 Large probe shell volume: 309.466000 A^3"
 
 # run test

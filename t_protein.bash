@@ -22,11 +22,11 @@ Elapsed time: 2.717566 s
 <VOLUME>
 Van der Waals volume: 14337.912000 A^3
 Probe inaccessible volume: 4083.024000 A^3
-Probe core volume: 113127.488000 A^3
+Probe core volume: No physical meaning, contains all volume outside the structure.
 Probe shell volume: 9026.296000 A^3
 Cavity ID           Volume              Core Surface        Shell Surface       Position            
                     (A^3)               (A^2)               (A^2)               (A,A,A)             
-1                   121965.712000       0.000000            0.000000            (3.6, -5.4, 19)     
+1                   outside             0.000000            0.000000            (3.6, -5.4, 19)     
 2                   26.936000           0.000000            0.000000            (2.5, 6.8, 26)      
 3                   25.584000           0.000000            0.000000            (5.1, -2.1, 13)     
 4                   21.136000           0.000000            0.000000            (5.2, 3.2, 16)      
