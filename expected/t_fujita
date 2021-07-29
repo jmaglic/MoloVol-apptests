@@ -1,0 +1,12 @@
+<OPTIONS>
+Enable two-probe mode: yes
+<OUTPUT>
+Elapsed time: 1.872941 s
+<VOLUME>
+Van der Waals volume: 2067.795000 A^3
+Probe inaccessible volume: 275.616000 A^3
+Small probe core volume: 304.182000 A^3
+Small probe shell volume: 261.819000 A^3
+Cavity ID           Volume              Core Surface        Shell Surface       Position            
+                    (A^3)               (A^2)               (A^2)               (A,A,A)             
+1                   566.001000          0.000000            0.000000            (0.3, 17, 25)       

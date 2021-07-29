@@ -1,0 +1,13 @@
+<OPTIONS>
+Include HETATM: yes
+Analyze unit cell: yes
+<OUTPUT>
+Elapsed time: 0.133385 s
+<VOLUME>
+Van der Waals volume: 92.960000 A^3
+Probe inaccessible volume: 0.000000 A^3
+Probe core volume: 643.712000 A^3
+Probe shell volume: 263.328000 A^3
+Cavity ID           Volume              Core Surface        Shell Surface       Position            
+                    (A^3)               (A^2)               (A^2)               (A,A,A)             
+1                   907.040000          0.000000            0.000000            (5.1, 5.1, 5.1)     
