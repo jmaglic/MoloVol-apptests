@@ -18,10 +18,16 @@ RESDIR=$(<$DIR/data/resdir)
 # set command without -fe
 CMD="$EXEC -r 1.2 -g 0.1 -fs $RESDIR/probetest_pair.xyz -o vol_inaccessible -q"
 
-# set expected result for command
-EXP="<VOLUME>
-Probe inaccessible volume: 1.488000 A^3"
+EXPFILE=`basename $0 .bash`
 
-# run test
-echo TESTING - Excluded volume pair:
-/bin/bash $DIR/aux/anytest.bash "$CMD" "$EXP"
+if [[ "$2" == "update"  ]]; then
+  echo UPDATING - Excluded volume pair
+  $CMD > $DIR/expected/$EXPFILE
+
+else
+  EXP=$(<$DIR/expected/$EXPFILE)
+
+  # run test
+  echo TESTING - Excluded volume pair:
+  /bin/bash $DIR/aux/anytest.bash "$CMD" "$EXP"
+fi

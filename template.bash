@@ -18,9 +18,16 @@ RESDIR=$(<$DIR/data/resdir)
 # set command without -fe
 CMD="$EXEC -r 1.2 -g 0.1 -fs $RESDIR/file.xyz -o all -q"
 
-# set expected result for command
-EXP=""
+EXPFILE=`basename $0 .bash`
 
-# run test
-echo TESTING - What we are testing:
-/bin/bash $DIR/aux/anytest.bash "$CMD" "$EXP"
+if [[ "$2" == "update"  ]]; then
+  echo UPDATING - What we are testing
+  $CMD > $DIR/expected/$EXPFILE
+
+else
+  EXP=$(<$DIR/expected/$EXPFILE)
+
+  # run test
+  echo TESTING - What we are testing:
+  /bin/bash $DIR/aux/anytest.bash "$CMD" "$EXP"
+fi

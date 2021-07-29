@@ -16,7 +16,12 @@ if [[ ! -d "$DIR" ]]; then DIR="$PWD"; fi
 RESDIR=$(<$DIR/data/resdir)
 
 # run test
-echo TESTING - Excluded volume:
+if [[ "$2" == "update"  ]]; then
+  echo UPDATING - Excluded volume
+else
+  echo TESTING - Excluded volume:
+fi
+
 for file in $DIR/ex_*.bash; do
-  /bin/bash $file "$EXEC"
+  /bin/bash $file "$EXEC" $2
 done

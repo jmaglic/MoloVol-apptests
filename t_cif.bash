@@ -16,7 +16,11 @@ if [[ ! -d "$DIR" ]]; then DIR="$PWD"; fi
 RESDIR=$(<$DIR/data/resdir)
 
 # run test
-echo TESTING - CIF files:
+if [[ "$2" == "update" ]]; then
+  echo TESTING - CIF files
+else
+  echo TESTING - CIF files:
+fi
 for file in $DIR/cif_*.bash; do
-  /bin/bash $file "$EXEC"
+  /bin/bash $file "$EXEC" $2
 done
