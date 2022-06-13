@@ -3,14 +3,14 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C312H420Cl42O54
-Elapsed time: 0.684182 s
+Elapsed time: 0.687316 s
 <VOLUME>
 Van der Waals volume: 5556.814509 A^3
-Probe inaccessible volume: 2363.911413 A^3
+Probe excluded void volume: 2363.911413 A^3
 Probe core volume: 0.606928 A^3
 Probe shell volume: 28.795311 A^3
-Cavity ID           Volume              Center Coord        
-                    (A^3)               x, y, z (A)         
+Cavity ID           Occupied            Center Coord        
+                    Volume (A^3)        x, y, z (A)         
 1                   11.286000           (13, 7.7, 6.5)      
 2                   5.213700            (25, 15, 7.2)       
 3                   4.860000            (0.6, 15, 7.2)      

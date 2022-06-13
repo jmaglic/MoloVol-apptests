@@ -3,16 +3,16 @@ Enable two-probe mode: yes
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C383B24F96N48O48Pd12Se24
-Elapsed time: 2.494621 s
+Elapsed time: 2.519363 s
 <VOLUME>
 Van der Waals volume: 7356.069000 A^3
-Probe inaccessible volume: 1301.319000 A^3
+Probe excluded void volume: 1301.319000 A^3
 Small probe core volume: 64.341000 A^3
 Small probe shell volume: 543.861000 A^3
 Large probe core volume: No physical meaning, contains all volume outside the structure.
 Large probe shell volume: 28712.340000 A^3
-Cavity ID           Volume              Cavity Type         Center Coord        
-                    (A^3)                                   x, y, z (A)         
+Cavity ID           Occupied            Cavity Type         Center Coord        
+                    Volume (A^3)                            x, y, z (A)         
 1                   52.434000           Pocket              (21, 14, 9.2)       
 2                   46.791000           Pocket              (-7.1, 2.3, 24)     
 3                   43.929000           Pocket              (-8.1, 20, -3.2)    

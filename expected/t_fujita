@@ -1,12 +1,12 @@
 <OPTIONS>
 Enable two-probe mode: yes
 <OUTPUT>
-Elapsed time: 1.881300 s
+Elapsed time: 1.882365 s
 <VOLUME>
 Van der Waals volume: 2067.795000 A^3
-Probe inaccessible volume: 275.616000 A^3
+Probe excluded void volume: 275.616000 A^3
 Small probe core volume: 304.182000 A^3
 Small probe shell volume: 261.819000 A^3
-Cavity ID           Volume              Cavity Type         Center Coord        
-                    (A^3)                                   x, y, z (A)         
+Cavity ID           Occupied            Cavity Type         Center Coord        
+                    Volume (A^3)                            x, y, z (A)         
 1                   566.001000          Tunnel              (0.3, 17, 25)       
