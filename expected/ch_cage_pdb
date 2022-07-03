@@ -1,0 +1,21 @@
+<INPUT>
+Structure file: ../apptests/structures/charged/fujita_open_cage-ions.pdb
+Grid resolution: 0.200000 A
+Octree depth: 4
+Probe radius: 1.200000 A
+<OPTIONS>
+Include HETATM: yes
+Analyze unit cell: no
+Enable two-probe mode: no
+Calculate surface areas: no
+<OUTPUT>
+Result summary for: C132H96N36Pd6
+Elapsed time: 0.388106 s
+<VOLUME>
+Van der Waals volume: 2005.040000 A^3
+Probe excluded void volume: 137.408000 A^3
+Probe core volume: No physical meaning, contains all volume outside the structure.
+Probe shell volume: 2759.312000 A^3
+Cavity ID           Occupied            Cavity Type         Center Coord        
+                    Volume (A^3)                            x, y, z (A)         
+1                   Outside             Outside             (0, 16, 26)         
