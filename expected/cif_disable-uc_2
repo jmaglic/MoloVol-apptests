@@ -3,7 +3,7 @@ Enable two-probe mode: yes
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C383B24F96N48O48Pd12Se24
-Elapsed time: 2.519363 s
+Elapsed time: 2.505389 s
 <VOLUME>
 Van der Waals volume: 7356.069000 A^3
 Probe excluded void volume: 1301.319000 A^3

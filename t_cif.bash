@@ -17,7 +17,7 @@ RESDIR=$(<$DIR/data/resdir)
 
 # run test
 if [[ "$2" == "update" ]]; then
-  echo TESTING - CIF files
+  echo UPDATING - CIF files
 else
   echo TESTING - CIF files:
 fi

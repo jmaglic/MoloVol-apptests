@@ -1,5 +1,5 @@
 <INPUT>
-Structure file: apptests/structures/charged/fujita_open_cage-ions.xyz
+Structure file: apptests/structures/charged/bf4-ions.xyz
 Grid resolution: 0.200000 A
 Octree depth: 4
 Probe radius: 1.200000 A
@@ -7,13 +7,13 @@ Probe radius: 1.200000 A
 Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
-Result summary for: C132H96N36Pd6
-Elapsed time: 0.390431 s
+Result summary for: BF4
+Elapsed time: 0.012117 s
 <VOLUME>
-Van der Waals volume: 2005.000000 A^3
-Probe excluded void volume: 137.424000 A^3
+Van der Waals volume: 34.072000 A^3
+Probe excluded void volume: 2.568000 A^3
 Probe core volume: No physical meaning, contains all volume outside the structure.
-Probe shell volume: 2759.464000 A^3
+Probe shell volume: 123.664000 A^3
 Cavity ID           Occupied            Cavity Type         Center Coord        
                     Volume (A^3)                            x, y, z (A)         
-1                   Outside             Outside             (0, 16, 26)         
+1                   Outside             Outside             (-6.8, 5.2, -1)     

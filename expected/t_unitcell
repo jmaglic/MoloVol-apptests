@@ -2,7 +2,7 @@
 Include HETATM: yes
 Analyze unit cell: yes
 <OUTPUT>
-Elapsed time: 0.131797 s
+Elapsed time: 0.120551 s
 <VOLUME>
 Van der Waals volume: 92.960000 A^3
 Probe excluded void volume: 0.000000 A^3
