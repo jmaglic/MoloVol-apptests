@@ -8,7 +8,7 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: BGaGbGcGd
-Elapsed time: 0.019086 s
+Elapsed time: 0.019583 s
 <VOLUME>
 Van der Waals volume: 121.112000 A^3
 Probe excluded void volume: 0.216000 A^3

@@ -8,7 +8,7 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C132H96N36Pd6
-Elapsed time: 0.390431 s
+Elapsed time: 0.386367 s
 <VOLUME>
 Van der Waals volume: 2005.000000 A^3
 Probe excluded void volume: 137.424000 A^3
