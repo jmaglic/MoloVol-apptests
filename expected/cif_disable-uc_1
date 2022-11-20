@@ -3,10 +3,11 @@ Enable two-probe mode: yes
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C52H70Cl7O9
-Elapsed time: 0.345131 s
+Elapsed time: 0.350832 s
 <VOLUME>
 Van der Waals volume: 990.279000 A^3
 Probe excluded void volume: 207.468000 A^3
+Molecular volume (Vvdw + Vvoid): 1197.747000 A^3
 Small probe core volume: 0.162000 A^3
 Small probe shell volume: 8.181000 A^3
 Large probe core volume: No physical meaning, contains all volume outside the structure.

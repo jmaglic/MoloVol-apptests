@@ -1,8 +1,9 @@
 <OUTPUT>
-Elapsed time: 2.682235 s
+Elapsed time: 2.698619 s
 <VOLUME>
 Van der Waals volume: 14337.912000 A^3
 Probe excluded void volume: 4083.024000 A^3
+Molecular volume (Vvdw + Vvoid): 18420.936000 A^3
 Probe core volume: No physical meaning, contains all volume outside the structure.
 Probe shell volume: 9026.296000 A^3
 Cavity ID           Occupied            Cavity Type         Center Coord        

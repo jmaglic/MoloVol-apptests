@@ -1,5 +1,5 @@
 <INPUT>
-Structure file: apptests/structures/charged/bf4-ions.xyz
+Structure file: /Users/jmaglic/Documents/Local/Projekte/Programmieren/01_MoloVol/environment/apptests/structures/charged/bf4-ions.xyz
 Grid resolution: 0.200000 A
 Octree depth: 4
 Probe radius: 1.200000 A
@@ -8,10 +8,11 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: BF4
-Elapsed time: 0.011755 s
+Elapsed time: 0.012646 s
 <VOLUME>
 Van der Waals volume: 34.072000 A^3
 Probe excluded void volume: 2.568000 A^3
+Molecular volume (Vvdw + Vvoid): 36.640000 A^3
 Probe core volume: No physical meaning, contains all volume outside the structure.
 Probe shell volume: 123.664000 A^3
 Cavity ID           Occupied            Cavity Type         Center Coord        

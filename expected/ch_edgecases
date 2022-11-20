@@ -1,5 +1,5 @@
 <INPUT>
-Structure file: apptests/structures/charged/edgecases.xyz
+Structure file: /Users/jmaglic/Documents/Local/Projekte/Programmieren/01_MoloVol/environment/apptests/structures/charged/edgecases.xyz
 Grid resolution: 0.200000 A
 Octree depth: 4
 Probe radius: 1.200000 A
@@ -8,10 +8,11 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: BGaGbGcGd
-Elapsed time: 0.019583 s
+Elapsed time: 0.019853 s
 <VOLUME>
 Van der Waals volume: 121.112000 A^3
 Probe excluded void volume: 0.216000 A^3
+Molecular volume (Vvdw + Vvoid): 121.328000 A^3
 Probe core volume: No physical meaning, contains all volume outside the structure.
 Probe shell volume: 211.360000 A^3
 Cavity ID           Occupied            Cavity Type         Center Coord        

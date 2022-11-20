@@ -1,5 +1,5 @@
 <INPUT>
-Structure file: apptests/structures/charged/norc_cage-ions.cif
+Structure file: /Users/jmaglic/Documents/Local/Projekte/Programmieren/01_MoloVol/environment/apptests/structures/charged/norc_cage-ions.cif
 Grid resolution: 0.200000 A
 Octree depth: 4
 Probe radius: 1.200000 A
@@ -8,10 +8,11 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C720H552Fe8N96Ni12
-Elapsed time: 3.512602 s
+Elapsed time: 3.525233 s
 <VOLUME>
 Van der Waals volume: 9837.780579 A^3
 Probe excluded void volume: 1776.992746 A^3
+Molecular volume (Vvdw + Vvoid): 11614.773325 A^3
 Probe core volume: 8409.564495 A^3
 Probe shell volume: 6728.023162 A^3
 Cavity ID           Occupied            Center Coord        

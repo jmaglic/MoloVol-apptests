@@ -1,5 +1,5 @@
 <INPUT>
-Structure file: apptests/structures/charged/HKUST1-ions.cif
+Structure file: /Users/jmaglic/Documents/Local/Projekte/Programmieren/01_MoloVol/environment/apptests/structures/charged/HKUST1-ions.cif
 Grid resolution: 0.200000 A
 Octree depth: 4
 Probe radius: 1.200000 A
@@ -8,10 +8,11 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C288H96Cu48O384
-Elapsed time: 2.267644 s
+Elapsed time: 2.267209 s
 <VOLUME>
 Van der Waals volume: 5143.928005 A^3
 Probe excluded void volume: 456.380486 A^3
+Molecular volume (Vvdw + Vvoid): 5600.308492 A^3
 Probe core volume: 7152.027850 A^3
 Probe shell volume: 5414.034593 A^3
 Cavity ID           Occupied            Center Coord        

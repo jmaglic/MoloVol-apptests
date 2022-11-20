@@ -1,5 +1,5 @@
 <INPUT>
-Structure file: apptests/structures/charged/fujita_open_cage-ions.xyz
+Structure file: /Users/jmaglic/Documents/Local/Projekte/Programmieren/01_MoloVol/environment/apptests/structures/charged/fujita_open_cage-ions.xyz
 Grid resolution: 0.200000 A
 Octree depth: 4
 Probe radius: 1.200000 A
@@ -8,10 +8,11 @@ Enable two-probe mode: no
 Calculate surface areas: no
 <OUTPUT>
 Result summary for: C132H96N36Pd6
-Elapsed time: 0.386367 s
+Elapsed time: 0.385218 s
 <VOLUME>
 Van der Waals volume: 2005.000000 A^3
 Probe excluded void volume: 137.424000 A^3
+Molecular volume (Vvdw + Vvoid): 2142.424000 A^3
 Probe core volume: No physical meaning, contains all volume outside the structure.
 Probe shell volume: 2759.464000 A^3
 Cavity ID           Occupied            Cavity Type         Center Coord        
